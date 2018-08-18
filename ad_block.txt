@@ -6,4 +6,4 @@ tieba.baidu.com###aside
 tieba.baidu.com##.right_section.right_bright
 
 www.zhibo.tv###testfadeIn
-wwww.zhibo.tv##.login_reg.fixed
+www.zhibo.tv##.login_reg.fixed
