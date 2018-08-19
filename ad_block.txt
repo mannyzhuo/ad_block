@@ -9,4 +9,3 @@ www.zhibo.tv###testfadeIn
 www.zhibo.tv##.login_reg.fixed
 
 b.kuangtuiguoo18888.com
-*.kuangtuiguoo18888.com
