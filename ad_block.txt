@@ -15,3 +15,5 @@ www.sogou.com###right
 
 
 s23.cnzz.com
+
+www.24fa.top##body>div:last-child
