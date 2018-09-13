@@ -2,6 +2,7 @@
 vip.cy1234.info
 www.qyl86.com##iframe
 www.qyl87.com##iframe
+www.qyl89.com##iframe
 
 tieba.baidu.com###aside
 tieba.baidu.com##.right_section.right_bright
