@@ -23,4 +23,6 @@ c.yootui19999.com
 ##.AdblockBanner
 
 www.24fa.top##body>a:first-child
+www.24fa.top##body>a
+www.24fa.top##body>iframe
 
