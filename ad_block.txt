@@ -22,3 +22,5 @@ c.yootui19999.com
 ## it之家的：
 ##.AdblockBanner
 
+www.so.com###side
+
