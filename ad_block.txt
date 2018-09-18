@@ -1,8 +1,11 @@
 *:23525/*
+##.ad
+cbu01.alicdn.com
 vip.cy1234.info
 www.qyl00.com##iframe
 www.qyl87.com##iframe
 www.qyl89.com##iframe
+www.sejie09.com##iframe
 
 tieba.baidu.com###aside
 tieba.baidu.com##.right_section.right_bright
