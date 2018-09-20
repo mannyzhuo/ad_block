@@ -2,9 +2,21 @@
 ##.ad
 cbu01.alicdn.com
 vip.cy1234.info
+f2824.com
+www.766766n.com
+hm.baidu.com
+anastasiaana.com
 www.qyl00.com##iframe
 www.qyl87.com##iframe
 www.qyl89.com##iframe
+*.aliyuncs.com
+img.09mk.cn
+qq
+*:9797/*
+
+
+
+
 www.sejie09.com##iframe
 
 tieba.baidu.com###aside
@@ -26,4 +38,5 @@ c.yootui19999.com
 ##.AdblockBanner
 
 www.so.com###side
+
 
