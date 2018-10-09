@@ -26,6 +26,7 @@ www.sejie00.com##iframe
 
 tieba.baidu.com###aside
 tieba.baidu.com##.right_section.right_bright
+www.baidu.com###content_right
 
 www.zhibo.tv###testfadeIn
 www.zhibo.tv##.login_reg.fixed
