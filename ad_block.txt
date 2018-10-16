@@ -11,7 +11,7 @@ hm.baidu.com
 www.llemon.cn###sidebar
 
 anastasiaana.com
-www.qyl00.com##iframe
+www.qyl03.com##iframe
 *.aliyuncs.com
 img.09mk.cn
 qq
@@ -22,7 +22,7 @@ syndication.exoclick.com
 
 
 
-www.sejie00.com##iframe
+www.sejie13.com##iframe
 
 tieba.baidu.com###aside
 tieba.baidu.com##.right_section.right_bright
