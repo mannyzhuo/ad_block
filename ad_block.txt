@@ -14,11 +14,20 @@
 ##.lanren
 ##.lanren2 
 ##.dahengfu
+##qq
 
 
 
 
 
+anastasiaana.com
+img.09mk.cn
+*:9797/*
+syndication.exoclick.com
+b.kuangtuiguoo18888.com
+s23.cnzz.com
+*:553/*
+c.yootui19999.com
 cbu01.alicdn.com
 img.alicdn.com
 vip.cy1234.info
@@ -129,18 +138,7 @@ zk017.com
 
 
 www.llemon.cn###sidebar
-
-anastasiaana.com
 www.qyl03.com##iframe
-*.aliyuncs.com
-img.09mk.cn
-qq
-*:9797/*
-
-syndication.exoclick.com
-
-
-
 
 www.sejie13.com##iframe
 
@@ -151,14 +149,9 @@ www.baidu.com###content_right
 www.zhibo.tv###testfadeIn
 www.zhibo.tv##.login_reg.fixed
 
-b.kuangtuiguoo18888.com
 
 www.sogou.com###right
 
-
-s23.cnzz.com
-*:553/*
-c.yootui19999.com
 
 ## it之家的：
 ##.AdblockBanner
