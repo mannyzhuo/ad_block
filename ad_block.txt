@@ -24,6 +24,8 @@
 */99rejs/js/adv2018.js
 */jiejiesao/css/style2.css
 *.com/player/html.php
+*/nb/fuck.js
+*/bo.php
 
 anastasiaana.com
 img.09mk.cn
