@@ -16,9 +16,8 @@
 ##.dahengfu
 ##qq
 
-
-
-
+*/js/com_function.js
+*/js/layer/layer.js
 
 anastasiaana.com
 img.09mk.cn
@@ -131,6 +130,11 @@ m.91770gg.com
 www.38820033.com
 zk017.com
 14680123.com
+ad9665.com
+www.jz9939.com
+www.ssjjxjsm.com
+www.20eatz.com
+
 
 
 
