@@ -15,6 +15,7 @@
 ##.lanren2 
 ##.dahengfu
 ##qq
+###index_tan
 ##.wrap-head-spots
 
 */js/com_function.js
@@ -139,6 +140,8 @@ ad9665.com
 www.jz9939.com
 www.ssjjxjsm.com
 www.20eatz.com
+s22.cnzz.com
+c.cnzz.com
 
 
 
