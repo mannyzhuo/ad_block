@@ -155,6 +155,10 @@ www.sogou.com###right
 
 ## it之家的：
 ##.AdblockBanner
+m.ithome.com##div.con-box > div.lapin
+m.ithome.com##.hot-app
+m.ithome.com##.ruanmei-footer
+
 
 www.so.com###side
 
