@@ -22,6 +22,7 @@
 */99rejs/js/layerabc.js
 */99rejs/js/adv2018.js
 */jiejiesao/css/style2.css
+*.com/player/html.php
 
 anastasiaana.com
 img.09mk.cn
@@ -141,15 +142,7 @@ www.20eatz.com
 
 
 
-
-
-
-
 www.llemon.cn###sidebar
-www.qyl03.com##iframe
-
-www.sejie13.com##iframe
-
 tieba.baidu.com###aside
 tieba.baidu.com##.right_section.right_bright
 www.baidu.com###content_right
