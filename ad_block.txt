@@ -15,9 +15,12 @@
 ##.lanren2 
 ##.dahengfu
 ##qq
+##.wrap-head-spots
 
 */js/com_function.js
 */js/layer/layer.js
+*/99rejs/js/layerabc.js
+*/99rejs/js/adv2018.js
 
 anastasiaana.com
 img.09mk.cn
