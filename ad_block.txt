@@ -163,6 +163,7 @@ www.sogou.com###right
 ##.AdblockBanner
 m.ithome.com##div.con-box > div.lapin
 m.ithome.com##.hot-app
+m.ithome.com##.fixed-btn
 m.ithome.com##.ruanmei-footer
 
 
