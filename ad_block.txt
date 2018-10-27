@@ -26,7 +26,18 @@
 *.com/player/html.php
 */nb/fuck.js
 */bo.php
+*：//wx1.sinaimg.cn/large/*.gif
+*：//wx2.sinaimg.cn/large/*.gif
+*：//wx3.sinaimg.cn/large/*.gif
+*：//wx4.sinaimg.cn/large/*.gif
+*：//ww1.sinaimg.cn/large/*.gif
+*：//ww2.sinaimg.cn/large/*.gif
+*：//ww3.sinaimg.cn/large/*.gif
+*：//ww4.sinaimg.cn/large/*.gif
 
+
+
+i.makeagif.com
 anastasiaana.com
 img.09mk.cn
 *:9797/*
