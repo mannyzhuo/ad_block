@@ -30,6 +30,7 @@
 */bo.php
 ||wx1.sinaimg.cn/large/*.gif
 ||wx2.sinaimg.cn/large/*.gif
+||wx2.sinaimg.cn/mw1024/*.gif
 ||wx3.sinaimg.cn/large/*.gif
 ||wx4.sinaimg.cn/large/*.gif
 ||ww1.sinaimg.cn/large/*.gif
