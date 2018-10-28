@@ -1,5 +1,7 @@
 *:23525/*
 ##.ad
+##.ads
+##.ads-player
 ###tab_comments
 ###layui-layer1
 ###layui-layer-shade1
