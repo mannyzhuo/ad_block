@@ -171,6 +171,7 @@ hot.browser.miui.com
 sc02.alicdn.com
 img.86yp.cn
 data.mistat.xiaomi.com
+i1.go2yd.com
 
 
 
