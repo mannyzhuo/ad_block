@@ -20,6 +20,8 @@
 ###index_tan
 ##.wrap-head-spots
 ##.pb_cut_hot_recommend
+##.alert
+##cloudflare-app
 
 */js/com_function.js
 */js/layer/layer.js
