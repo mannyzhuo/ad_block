@@ -177,6 +177,9 @@ img.86yp.cn
 data.mistat.xiaomi.com
 i1.go2yd.com
 www.pandapaypay.com
+www.duobaoqj.com
+ss.lixiqin.com
+s3.rongnews.com
 www.1502.pw/*.gif
 
 
