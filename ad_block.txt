@@ -225,5 +225,12 @@ m.ithome.com##.ruanmei-footer
 
 
 www.so.com###side
+xdm.axwvmxt.cn
+xn--2qu92fhtx4ff.site
+ae01.alicdn.com
+push.zhanzhang.baidu.com
+top_box5.txt
+header_box5.txt
+weizi5.txt
 
 
