@@ -70,6 +70,7 @@ mob1.sjmw69.com
 hm.baidu.com
 img.86yp.cn
 img.awnxiz.cn
+sc01.alicdn.com
 sc02.alicdn.com
 wap1bb.com
 j3773.com
@@ -173,7 +174,7 @@ ib11.go2yd.com/corpimage.php
 o2o.api.xiaomi.com
 hot.browser.miui.com
 ||hot.browser.miui.com
-sc02.alicdn.com
+
 img.86yp.cn
 data.mistat.xiaomi.com
 i1.go2yd.com
@@ -228,7 +229,6 @@ m.ithome.com##.ruanmei-footer
 www.so.com###side
 xdm.axwvmxt.cn
 xn--2qu92fhtx4ff.site
-ae01.alicdn.com
 push.zhanzhang.baidu.com
 top_box5.txt
 header_box5.txt
