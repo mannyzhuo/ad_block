@@ -139,6 +139,7 @@ yun.tuisnake.com
 yun.tuipear.com
 carolinecar.com
 ss.abelabe.com
+sdvijp.171226.com
 mob.jjzswang.com
 c83rq7ay.com
 www.99ee24.com
@@ -204,6 +205,8 @@ www.wxbgf.top
 s13.cnzz.com
 s7.addthis.com
 closepic.oss-cn-shanghai.aliyuncs.com
+https://cdn.jsdelivr.net/gh/dizhi91/jiuse/
+xn--2qux23c9ziyrq.club
 
 
 www.llemon.cn###sidebar
