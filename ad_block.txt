@@ -1,4 +1,5 @@
 *:23525/*
+xn--wxtr44c.video
 ##.ad
 ##.ads
 ##.ads-player
